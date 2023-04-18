@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krisna Satria Wijayanto</h1>
 <h3 align="center">A passionate software engineer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krisnasw&label=Profile%20views&color=0e75b6&style=flat" alt="krisnasw" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krisnasw" alt="krisnasw" /></a> </p>
-
 - 🔭 I’m currently working as **Software Engineer**
 
 - 🌱 I’m currently learning **Business Development, Digital Marketing**
@@ -33,3 +29,7 @@
 <a href="https://www.hackerrank.com/krisnasw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krisnasw" height="30" width="40" /></a>
 <a href="https://discord.gg/forelyx#4336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="forelyx#4336" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krisnasw&label=Profile%20views&color=0e75b6&style=flat" alt="krisnasw" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krisnasw" alt="krisnasw" /></a> </p>
