@@ -45,3 +45,7 @@
 #### GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=krisnasw&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+#### Wakatime
+
+<figure><embed src="https://wakatime.com/share/@Krisnasw/830d7ff6-5479-44b4-9297-3f2d41b3105e.svg"></embed></figure>
