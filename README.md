@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Krisna Satria Wijayanto</h1>
-<h3 align="center">A passionate software engineer from Indonesia</h3>
+Hi, Krisna here, working as Senior Software Engineer. 
+
+Natively speaking Bahasa Indonesia, he is also fluent in English. His passion mostly related to technical architecture, digital marketing, product management, and love to learn new things.
 
 - 🔭 I’m currently working as **Software Engineer**
 
