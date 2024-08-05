@@ -2,17 +2,9 @@ Hi, Krisna here, working as Senior Software Engineer.
 
 Natively speaking Bahasa Indonesia, he is also fluent in English. His passion mostly related to technical architecture, digital marketing, product management, and love to learn new things.
 
-- 🔭 I’m currently working as **Software Engineer**
-
-- 🌱 I’m currently learning **Business Development, Digital Marketing**
-
 - 👯 I’m looking to collaborate on **Open Source Project, Early Stage Startup, and Product, or some Business**
 
 - 👨‍💻 All of my projects are available at [https://sociolite.id](https://sociolite.id)
-
-- 📝 I regularly write articles on [https://tidakdenganlisan.com](https://tidakdenganlisan.com)
-
-- 💬 Ask me about **Software Development, Mobile Development, Sysadmin, Pentesting**
 
 - 📫 How to reach me **krisna@sociolite.id**
 
