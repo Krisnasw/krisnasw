@@ -1,6 +1,8 @@
+![readmebox](https://github.com/galihap76/galihap76/assets/83481679/e1585443-d73e-43e8-a952-1dc6d4ea327e)
+
 Hi, Krisna here, working as Senior Software Engineer. 
 
-Natively speaking Bahasa Indonesia, he is also fluent in English. His passion mostly related to technical architecture, digital marketing, product management, and love to learn new things.
+Natively speaking Bahasa Indonesia, also fluent in English. My passion mostly related to technical architecture, digital marketing, product management, and love to learn new things.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
